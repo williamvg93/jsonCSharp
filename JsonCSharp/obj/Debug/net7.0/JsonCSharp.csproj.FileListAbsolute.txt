@@ -1,0 +1,15 @@
+/workspaces/jsonCSharp/JsonCSharp/bin/Debug/net7.0/JsonCSharp
+/workspaces/jsonCSharp/JsonCSharp/bin/Debug/net7.0/JsonCSharp.deps.json
+/workspaces/jsonCSharp/JsonCSharp/bin/Debug/net7.0/JsonCSharp.runtimeconfig.json
+/workspaces/jsonCSharp/JsonCSharp/bin/Debug/net7.0/JsonCSharp.dll
+/workspaces/jsonCSharp/JsonCSharp/bin/Debug/net7.0/JsonCSharp.pdb
+/workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/JsonCSharp.csproj.AssemblyReference.cache
+/workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/JsonCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/JsonCSharp.AssemblyInfoInputs.cache
+/workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/JsonCSharp.AssemblyInfo.cs
+/workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/JsonCSharp.csproj.CoreCompileInputs.cache
+/workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/JsonCSharp.dll
+/workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/refint/JsonCSharp.dll
+/workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/JsonCSharp.pdb
+/workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/JsonCSharp.genruntimeconfig.cache
+/workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/ref/JsonCSharp.dll
