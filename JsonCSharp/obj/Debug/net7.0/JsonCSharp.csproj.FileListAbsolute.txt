@@ -13,3 +13,5 @@
 /workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/JsonCSharp.pdb
 /workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/JsonCSharp.genruntimeconfig.cache
 /workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/ref/JsonCSharp.dll
+/workspaces/jsonCSharp/JsonCSharp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/workspaces/jsonCSharp/JsonCSharp/obj/Debug/net7.0/JsonCSharp.csproj.CopyComplete

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "snzJz0Ss/gkChTwDXTgeqKSrioTh1QbarGWESsgFSJ7fESlaThhBElvwbxsX6+EyknDIidAINsP/c2jm2snbzQ==",
+  "dgSpecHash": "Qkr9HIOBZ6KmX0AbBvZhK8VFcDfGjYWwL8sLqa0JPkDJu//uBZB+uige+dZQpHejrFZX1naXz1whTetxbWvVag==",
   "success": true,
   "projectFilePath": "/workspaces/jsonCSharp/JsonCSharp/JsonCSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
